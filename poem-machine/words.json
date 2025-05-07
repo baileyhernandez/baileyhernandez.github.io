@@ -3,7 +3,7 @@
     "love", "shadow", "light", "time", "soul", "bird", "rain", "fire", "death", "hope", 
     "silence", "cloud", "sun", "pain", "kiss", "tree", "song", "dust", "stone", "whisper", 
     "flower", "river", "blood", "memory", "eye", "leaf", "snow", "voice", "mirror", "breath", 
-    "nightingale", "thorn", "storm", "ash", "path", "feather", "wine", "gate", "echo", "wave", "bailey"],
+    "nightingale", "thorn", "storm", "ash", "path", "feather", "wine", "gate", "echo", "wave"],
   "verbs": ["accept", "allow", "ask", "be", "become", "begin", "believe", "break", "bring", "build",
     "buy", "call", "can", "choose", "come", "consider", "continue", "cut", "do", "drive",
     "eat", "feel", "find", "follow", "get", "give", "go", "grow", "have", "hear",

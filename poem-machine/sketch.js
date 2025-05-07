@@ -22,7 +22,7 @@ function draw() {
 
   if (showTitle) {
     textSize(48);
-    text("Click for a Poem!", width / 2, height / 2);
+    text("click for a Poem!", width / 2, height / 2);
   } else {
     textSize(32);
     for (let i = 0; i < poem.length; i++) {

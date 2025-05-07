@@ -1,6 +1,22 @@
 {
-  "nouns": ["sky", "dream", "river", "fire", "whisper", "leaf", "light", "memory"],
-  "verbs": ["sings", "wanders", "falls", "burns", "flows", "waits", "dances", "lingers"],
-  "adjectives": ["silent", "ancient", "golden", "restless", "fading", "cold", "hidden", "gentle"],
-  "adverbs": ["softly", "alone", "forever", "slowly", "boldly", "suddenly", "barely", "always"]
+  "nouns": ["Rose", "Moon", "Heart", "Star", "Dream", "Night", "Flame", "Wind", "Sky", "Sea", 
+    "Love", "Shadow", "Light", "Time", "Soul", "Bird", "Rain", "Fire", "Death", "Hope", 
+    "Silence", "Cloud", "Sun", "Pain", "Kiss", "Tree", "Song", "Dust", "Stone", "Whisper", 
+    "Flower", "River", "Blood", "Memory", "Eye", "Leaf", "Snow", "Voice", "Mirror", "Breath", 
+    "Nightingale", "Thorn", "Storm", "Ash", "Path", "Feather", "Wine", "Gate", "Echo", "Wave"],
+  "verbs": ["accept", "allow", "ask", "be", "become", "begin", "believe", "break", "bring", "build",
+    "buy", "call", "can", "choose", "come", "consider", "continue", "cut", "do", "drive",
+    "eat", "feel", "find", "follow", "get", "give", "go", "grow", "have", "hear",
+    "help", "hold", "keep", "know", "learn", "leave", "like", "live", "look", "lose",
+    "make", "mean", "move", "need", "open", "play", "put", "read", "run", "say"],
+  "adjectives": ["angry", "bad", "beautiful", "big", "bitter", "brave", "bright", "busy", "calm", "careful",
+    "clean", "clever", "cold", "comfortable", "crazy", "cute", "dangerous", "dark", "deep", "difficult",
+    "dirty", "dry", "early", "easy", "empty", "famous", "fast", "fat", "friendly", "funny",
+    "good", "great", "happy", "hard", "heavy", "high", "hot", "important", "kind", "large",
+    "late", "light", "little", "long", "loud", "low", "new", "nice", "old", "quick"],
+  "adverbs": ["abruptly", "angrily", "anxiously", "awkwardly", "badly", "beautifully", "boldly", "bravely", "brightly", "calmly",
+    "carefully", "cheerfully", "clearly", "closely", "correctly", "cruelly", "daily", "eagerly", "easily", "fast",
+    "fiercely", "finally", "freely", "gently", "gladly", "gracefully", "greedily", "happily", "hard", "honestly",
+    "hungrily", "immediately", "innocently", "kindly", "lazily", "loudly", "loyally", "neatly", "nervously", "never",
+    "politely", "poorly", "quickly", "quietly", "rarely", "rapidly", "regularly", "rudely", "sadly", "safely"]
 }
